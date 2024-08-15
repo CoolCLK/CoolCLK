@@ -1,14 +1,37 @@
-<script type="text/javascript">
-  window.onload = function() {
-    switch (navigator.language) {
-      case "zh-CN": {
-        document.getElementById("a").innerText = "中文";
-        break;
-      }
-      default: {
-        break;
-      }
-    }
-  }
-</script>
-<a id="a"></a>
+## 你好👋
+
+### 🔭正在做
+
+我正在 [SkyDimension](https://github.com/CoolCLK/SkyDimension/) 上工作着🕹
+
+### 🌱正在学
+
+我正尝试学习 C++ 📔
+
+### 👯合作的人
+
+事实上，我大多时候都是独立工作🧳
+
+### 🤔困惑的事
+
+④马 ForgeGradle 3.+ 真寄吧难用🗿
+
+### 💬请问我
+
+我力所能及📚
+
+### 📪联系我
+
+你可以在哔哩哔哩上关注我，访问我的[个人空间](https://space.bilibili.com/397180026)📬
+
+你也可以在爱发电平台上[赞助我](https://afdian.com/a/_coolclk_)一杯咖啡☕
+
+### 😄称呼我
+
+请便😃
+
+### ⚡有趣的事实
+
+我是一个正在上学的学生🤪 玩过的游戏甚至没别人多😜
+
+我到现在已经拖更了一年了🤓
