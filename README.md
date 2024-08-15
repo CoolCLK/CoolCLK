@@ -4,6 +4,12 @@
 
 我正在 [SkyDimension](https://github.com/CoolCLK/SkyDimension/) 上工作着🕹
 
+若是有时间的话，会开发 [Faker](https://github.com/CoolCLK/Faker) 、[JEditor](https://github.com/CoolCLK/JEditor) ☺
+
+时间充足的话，也会尽可能完成 [CVideo](https://github.com/CoolCLK/CVideo) 这类不一定完成的项目🥲
+
+我也想尽己所能，同步地完善 [MinecraftModdingTutorial](https://github.com/CoolCLK/MinecraftModdingTutorial)😉
+
 ### 🌱正在学
 
 我正尝试学习 C++ 📔
@@ -35,3 +41,5 @@
 我是一个正在上学的学生🤪 玩过的游戏甚至没别人多😜
 
 我到现在已经拖更了一年了🤓
+
+我快被 Forge API 折磨至极了🫠
